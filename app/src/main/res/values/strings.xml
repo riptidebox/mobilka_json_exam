@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zadanie</string>
+    <string name="choseprodcategory">Выберите категорию товаров</string>
+    <string-array name="productcategories">
+        <item>Хлеб и хлебобулочные изделия</item>
+        <item>Выпечка</item>
+        <item>Овощи</item>
+        <item>Фрукты</item>
+        <item>Конфеты</item>
+    </string-array>
+</resources>
